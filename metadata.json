@@ -1,0 +1,6 @@
+{
+    "name": "Booh Token",
+    "symbol": "BOOH",
+    "description": "Test BOOH token",
+    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+  }
